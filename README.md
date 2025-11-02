@@ -92,7 +92,7 @@ Note: We were not able to capture the numbers on the 7-segment panels.
 
 ## Program Design Map
 
-<img src="documentation/ProgramMap.png" alt="Block Diagram" width="750"/>
+<img src="documentation/ProgramMap.png" alt="Program Design Map" width="750"/>
 
 1. global.h - Store the main global variables, waterLvl, powerLvl & segTable. Store all function declarations.  
    
